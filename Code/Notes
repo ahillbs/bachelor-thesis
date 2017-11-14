@@ -1,0 +1,35 @@
+Parameter mit langer Laufzeit: -k 25 -n 750 -x 1500 -y 1500 -s 10
+
+Instanzen mit Schnittpunkten mehrfacher Segmente 
+
+2-Approximation für Graphen bauen (einfach)
+
+Max-Circle
+
+Cycle Cover
+
+Clique (geometrisch mehrdimensional) mit k Punkten - Recherche
+
+alle k-... Probleme
+ - k routing
+ - k tsp
+ - k mst
+
+hitting set (geometrisch?)
+
+Mitchel: Übersicht offener Probleme im geometrischen Kontext
+
+Nach Surveys schauen
+
+
+Starke Werte für randomPointGenerator: ./BA -n 100 -m 300 -x 1000 -y 1000 -s 15
+
+markdown files für related work
+
+Punkte zum Anmelden:
+ - Was gibt es schon?
+ - Was bringt mein neues Problem?
+
+Nach Maximum Edge Subgraph sehen (aka Heaviest Subgraph)
+
+Template für Manhatten Norm
